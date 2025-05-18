@@ -29,8 +29,6 @@ To explore these notebooks, make sure you have Python installed along with Jupyt
 ```bash
 pip install numpy pandas matplotlib seaborn plotly cufflinks
 ```
-pip install numpy pandas matplotlib seaborn plotly cufflinks
-git clone https://github.com/your-username/your-repo-name.git
 
 Then, launch Jupyter Notebook or JupyterLab in this directory:
 
